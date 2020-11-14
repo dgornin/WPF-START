@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApp4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="but1" Content="нажми на меня " HorizontalAlignment="Left" Height="355" Margin="35,34,0,0" VerticalAlignment="Top" Width="204" MouseEnter="but1_MouseEnter" Visibility="Hidden"/>
+        <Button x:Name="but2" Content="нажми на меня " HorizontalAlignment="Left" Height="355" Margin="297,34,0,0" VerticalAlignment="Top" Width="204" MouseEnter="but2_MouseEnter"/>
+        <Button x:Name="but3" Content="нажми на меня " HorizontalAlignment="Left" Height="355" Margin="551,34,0,0" VerticalAlignment="Top" Width="204" MouseEnter="but3_MouseEnter" Visibility="Hidden"/>
+
+    </Grid>
+</Window>

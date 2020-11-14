@@ -1,0 +1,15 @@
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\bin\Release\WpfApp4.exe.config
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\bin\Release\WpfApp4.exe
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\bin\Release\WpfApp4.pdb
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.csprojAssemblyReference.cache
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\obj\Release\MainWindow.g.cs
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\obj\Release\App.g.cs
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4_MarkupCompile.cache
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4_MarkupCompile.lref
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\obj\Release\MainWindow.baml
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.g.resources
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.Properties.Resources.resources
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.csproj.GenerateResource.cache
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.exe
+C:\Users\dgorn\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.pdb

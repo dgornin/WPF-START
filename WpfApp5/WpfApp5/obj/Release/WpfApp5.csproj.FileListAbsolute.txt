@@ -1,0 +1,15 @@
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\bin\Release\WpfApp5.exe.config
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\bin\Release\WpfApp5.exe
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\bin\Release\WpfApp5.pdb
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.csprojAssemblyReference.cache
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\obj\Release\MainWindow.g.cs
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\obj\Release\App.g.cs
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5_MarkupCompile.cache
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5_MarkupCompile.lref
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\obj\Release\MainWindow.baml
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.g.resources
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.Properties.Resources.resources
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.csproj.GenerateResource.cache
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.exe
+C:\Users\dgorn\source\repos\WpfApp5\WpfApp5\obj\Release\WpfApp5.pdb

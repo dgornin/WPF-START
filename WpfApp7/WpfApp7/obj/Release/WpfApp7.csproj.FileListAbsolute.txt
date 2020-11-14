@@ -1,0 +1,14 @@
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\bin\Release\WpfApp7.exe.config
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\bin\Release\WpfApp7.exe
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\bin\Release\WpfApp7.pdb
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\obj\Release\MainWindow.g.cs
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\obj\Release\App.g.cs
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\obj\Release\WpfApp7_MarkupCompile.cache
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\obj\Release\WpfApp7_MarkupCompile.lref
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\obj\Release\MainWindow.baml
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\obj\Release\WpfApp7.g.resources
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\obj\Release\WpfApp7.Properties.Resources.resources
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\obj\Release\WpfApp7.csproj.GenerateResource.cache
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\obj\Release\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\obj\Release\WpfApp7.exe
+C:\Users\dgorn\source\repos\WpfApp7\WpfApp7\obj\Release\WpfApp7.pdb
