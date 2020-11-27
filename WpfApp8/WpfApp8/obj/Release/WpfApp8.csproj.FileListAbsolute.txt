@@ -1,0 +1,15 @@
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\bin\Release\WpfApp8.exe.config
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\bin\Release\WpfApp8.exe
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\bin\Release\WpfApp8.pdb
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\obj\Release\WpfApp8.csprojAssemblyReference.cache
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\obj\Release\MainWindow.g.cs
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\obj\Release\App.g.cs
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\obj\Release\WpfApp8_MarkupCompile.cache
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\obj\Release\WpfApp8_MarkupCompile.lref
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\obj\Release\MainWindow.baml
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\obj\Release\WpfApp8.g.resources
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\obj\Release\WpfApp8.Properties.Resources.resources
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\obj\Release\WpfApp8.csproj.GenerateResource.cache
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\obj\Release\WpfApp8.csproj.CoreCompileInputs.cache
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\obj\Release\WpfApp8.exe
+C:\Users\dgorn\source\repos\WpfApp8\WpfApp8\obj\Release\WpfApp8.pdb
